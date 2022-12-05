@@ -17,7 +17,7 @@
 
 ![STRUCTURE-FOLDER](https://user-images.githubusercontent.com/55613764/205543815-caa5e67e-d1e5-4486-853e-b964aa7a41be.PNG)
 
-![GET](https://user-images.githubusercontent.com/55613764/205543960-834d2276-8924-4c4f-9e51-7f31452019e3.PNG
+![GET](https://user-images.githubusercontent.com/55613764/205544124-4ad6578a-08fc-4d9d-b29a-5caf071d8355.PNG)
 
 ![POST](https://user-images.githubusercontent.com/55613764/205543992-b40cf25a-bb59-444d-9f70-b6c011b20ad9.PNG)
 
